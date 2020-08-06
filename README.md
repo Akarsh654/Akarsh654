@@ -12,5 +12,5 @@ I am a Computer Science Student at University of Alberta
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akrash-sharma-a75808198/)
 - ⚡ Fun fact: I am a Marvel fan!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh654&hide=Jupyter_Notebook&layout=compact)](https://github.com/Akarsh654/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh654&hide=jupyternotebook&layout=compact)](https://github.com/Akarsh654/github-readme-stats)
 
