@@ -9,7 +9,7 @@ I am a Computer Science Student at University of Alberta
 - 🌱 I’m currently learning the theory behind Machine Learning Algorithms
 - 👯 I’m looking to collaborate on Machine Learning and web design
 - 🤔 I’m looking for help with Neural Networks
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akrash-sharma-a75808198/)
 - ⚡ Fun fact: I am a Marvel fan!
 
 ![Akrash's github stats](https://github-readme-stats.vercel.app/api?username=Akarsh654&show_icons=true&theme=radical)
