@@ -5,7 +5,7 @@
 
 I am a Computer Science Student at University of Alberta 
 
-- 🔭 I’m currently working on Machine Learning Projects 
+- 🔭 I’m currently working on [Machine Learning Projects](https://github.com/Akarsh654/Machine-Learning-Projects) 
 - 🌱 I’m currently learning the theory behind Machine Learning Algorithms
 - 👯 I’m looking to collaborate on Machine Learning and web design
 - 🤔 I’m looking for help with Neural Networks
