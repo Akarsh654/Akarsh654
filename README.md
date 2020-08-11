@@ -3,7 +3,7 @@
 <!--
 **Akarsh654/Akarsh654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am [Akrash Sharma](http://akrashsharma.com/) , a Computer Science Student at University of Alberta 
+I am [Akrash Sharma](http://akrashsharma.com/) , a Computer Science Student at [University of Alberta](https://www.ualberta.ca/index.html) 
 
 - 🔭 I’m currently working on [Machine Learning Projects](https://github.com/Akarsh654/Machine-Learning-Projects) 
 - 🌱 I’m currently learning the theory behind Machine Learning Algorithms
