@@ -7,7 +7,7 @@ I am [Akrash Sharma](http://akrashsharma.com/) , a Computer Science Student at [
 
 - 🔭 I’m currently working on [Machine Learning Projects](https://github.com/Akarsh654/Machine-Learning-Projects) 
 - 🌱 I’m currently learning the theory behind Machine Learning Algorithms
-- 👯 I’m looking to collaborate on Machine Learning and web design
+- 👯 I’m looking to collaborate on Machine Learning and Statistics
 - 🤔 I’m looking for help with Neural Networks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
 - ⚡ Fun fact: I am a Marvel movies and DC series fan!
