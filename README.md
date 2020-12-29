@@ -6,7 +6,7 @@
 I am [Akrash Sharma](http://akrashsharma.com/) , a Computer Science Student at [University of Alberta](https://www.ualberta.ca/index.html) 
 
 - 🔭 I’m currently working on [Machine Learning Projects](https://github.com/Akarsh654/Machine-Learning-Projects) 
-- 🌱 I’m currently learning the theory behind Machine Learning Algorithms
+- 🌱 I’m currently learning Deep Learning 
 - 👯 I’m looking to collaborate on Machine Learning and Statistics
 - 🤔 I’m looking for help with Neural Networks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
