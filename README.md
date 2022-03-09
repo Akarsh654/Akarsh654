@@ -11,5 +11,5 @@ I am [Akrash Sharma](https://akrashsharma.netlify.app/) , a Computer Science Stu
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
 - ⚡ Fun fact: I am a Marvel fan!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh654&hide=jupyter_notebook&layout=compact)](https://github.com/Akarsh654/github-readme-stats)
+
 
