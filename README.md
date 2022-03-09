@@ -5,7 +5,7 @@
 
 I am [Akrash Sharma](https://akrashsharma.netlify.app/) , a Computer Science Student at [University of Alberta](https://www.ualberta.ca/index.html) 
 
-- 🔭 I’m currently working on [Graph Algorithms](https://github.com/Akarsh654/Graph-Algorithms-Package) 
+
 - 👯 I’m looking to collaborate on Machine Learning and Statistics
 - 🤔 I’m looking for help with [Neural Networks](hhttps://github.com/Akarsh654/Deep-Learning-Projects/tree/main/Neural%20Networks)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
