@@ -7,7 +7,7 @@ I am [Akrash Sharma](https://akrashsharma.net/) , a Computer Science Student at 
 
 
 - 👯 I’m looking to collaborate on Machine Learning and Statistics
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma/)
 - ⚡ Fun fact: I am a Marvel fan!
 
 
