@@ -7,7 +7,6 @@ I am [Akrash Sharma](https://akrashsharma.netlify.app/) , a Computer Science Stu
 
 
 - 👯 I’m looking to collaborate on Machine Learning and Statistics
-- 🤔 I’m looking for help with [Neural Networks](hhttps://github.com/Akarsh654/Deep-Learning-Projects/tree/main/Neural%20Networks)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akrash-sharma-a75808198/)
 - ⚡ Fun fact: I am a Marvel fan!
 
