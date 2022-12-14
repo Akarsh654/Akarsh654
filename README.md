@@ -3,7 +3,7 @@
 <!--
 **Akarsh654/Akarsh654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am [Akrash Sharma](https://akrashsharma.netlify.app/) , a Computer Science Student at [University of Alberta](https://www.ualberta.ca/index.html) 
+I am [Akrash Sharma](https://akrashsharma.net/) , a Computer Science Student at [University of Alberta](https://www.ualberta.ca/index.html) 
 
 
 - 👯 I’m looking to collaborate on Machine Learning and Statistics
